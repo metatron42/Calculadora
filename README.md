@@ -1,21 +1,22 @@
-#Basic Calculator in Java with Junity (Maven)
+#Calculadora basica em Java com JUnity (Maven)
 
-This is a simple Java calculator application built using Maven with additional Junity testing. It can perform basic arithmetic operations like addition, subtraction, multiplication, and division. This README provides information on how to set up and use the calculator.
+Este é um aplicativo de calculadora Java simples construído usando Maven com testes Junity adicionais. Ele pode executar operações aritméticas básicas como adição, subtração, multiplicação e divisão. Este README.md fornece informações sobre como configurar e usar a calculadora.
 
-##Prerequisites
-Before you begin, ensure you have the following prerequisites:
+##Pré-requisitos
+Antes de começar, verifique se você tem os seguintes pré-requisitos:
 
-Java installed on your system.
-Maven installed on your system.
+Java instalado em seu sistema.
+Maven instalado em seu sistema.
 
-##Getting Started
-Clone this repository to your local machine:
+## Iniciado
+Clone este repositório para sua máquina local:
 git clone https://github.com/metatron42/Calculadora
 
 ##License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE.md para obter detalhes.
 
 ##Acknowledgments
-This calculator was created as a basic Java project for educational purposes.
-Feel free to modify and extend it for your own needs.
-If you have any questions or encounter issues, please create an issue on the GitHub repository.
+Esta calculadora foi criada como um projeto Java básico para fins educacionais.
+Sinta-se livre para modificá-lo e estendê-la para suas próprias necessidades.
+Se você tiver alguma dúvida ou encontrar problemas, crie uma issue no repositório do GitHub.
+
