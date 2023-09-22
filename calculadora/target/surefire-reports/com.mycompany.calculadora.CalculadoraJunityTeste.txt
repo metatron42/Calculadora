@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.calculadora.CalculadoraJunityTeste
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.009 sec <<< FAILURE!
+com.mycompany.calculadora.CalculadoraJunityTeste.testDividirDoisValoresSendoUmZero()  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.ArithmeticException: Não é possível dividir por zero
+	at com.mycompany.calculadora.Calculadora.divi(Calculadora.java:22)
+	at com.mycompany.calculadora.CalculadoraJunityTeste.testDividirDoisValoresSendoUmZero(CalculadoraJunityTeste.java:113)
+
+com.mycompany.calculadora.CalculadoraJunityTeste.testDividirDoisValoresAmbosZero()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.ArithmeticException: Não é possível dividir por zero
+	at com.mycompany.calculadora.Calculadora.divi(Calculadora.java:22)
+	at com.mycompany.calculadora.CalculadoraJunityTeste.testDividirDoisValoresAmbosZero(CalculadoraJunityTeste.java:121)
+
