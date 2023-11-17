@@ -1,7 +1,7 @@
 # Calculadora basica em Java(Maven)
 
 Este é um aplicativo de calculadora Java simples construído usando Maven com arquivo para testar. Ele pode executar operações aritméticas básicas como adição, subtração, multiplicação e divisão. Este README.md fornece informações sobre como configurar e usar a calculadora.
->>>>>> main
+
 
 ## Pré-requisitos
 Antes de começar, verifique se você tem os seguintes pré-requisitos:
